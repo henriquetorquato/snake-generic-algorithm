@@ -12,7 +12,7 @@ In this project, each entity (snake) has a chromosome, which represent the combi
 
 These entities are grouped in the form of generations. Each generation has an index, corresponding to the amount of iterations that its population has already undergone. At the end of each generation, entities are organized based on the score of it's chromosome, and each one passes a test based on how much it "survived". In this process the weaker entities are killed, thus destroying the less efficient chromosome, and the chromosome of the surviving entities undergo a mutation process, becoming more or less efficient is surviving.
 
-Treating the scenario this way, there is an expectation that in some generations, the entity will begin to "understand" that its goal and pick up food, which is the same goal of Snake's game.
+Treating the scenario this way, there is an expectation that in some generations, the entity will begin to "understand" that its goal and pick up food, which is the same goal of the Snake's game.
 
 > I am not a specialist in the field, I created this project based on my understanding on the subject. Any suggestion, objection or complaint about the way it was made, be sure to issue on it.
 
